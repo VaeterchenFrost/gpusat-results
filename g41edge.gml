@@ -1,65 +1,5 @@
 graph
 [
-edge
-[
-source 0
-target 1
-]
-edge
-[
-source 1
-target 2
-]
-edge
-[
-source 1
-target 3
-]
-edge
-[
-source 3
-target 4
-]
-edge
-[
-source 0
-target 1
-]
-edge
-[
-source 1
-target 2
-]
-edge
-[
-source 1
-target 3
-]
-edge
-[
-source 3
-target 4
-]
-edge
-[
-source 0
-target 1
-]
-edge
-[
-source 1
-target 2
-]
-edge
-[
-source 1
-target 3
-]
-edge
-[
-source 3
-target 4
-]
 node
 [
  id 2
@@ -82,46 +22,6 @@ id: 3 # 2
  fontName "Dialog"
  model "null"
  ]
-]
-edge
-[
-source 0
-target 1
-]
-edge
-[
-source 1
-target 2
-]
-edge
-[
-source 1
-target 3
-]
-edge
-[
-source 3
-target 4
-]
-edge
-[
-source 0
-target 1
-]
-edge
-[
-source 1
-target 2
-]
-edge
-[
-source 1
-target 3
-]
-edge
-[
-source 3
-target 4
 ]
 node
 [
@@ -250,6 +150,26 @@ id: 7 # 6
  fontName "Dialog"
  model "null"
  ]
+]
+edge
+[
+source 0
+target 1
+]
+edge
+[
+source 1
+target 0
+]
+edge
+[
+source 1
+target 3
+]
+edge
+[
+source 3
+target 4
 ]
 
 ]

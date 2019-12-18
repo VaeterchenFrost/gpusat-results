@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns"
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:y="http://www.yworks.com/xml/yfiles-common/3.0"
 xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
  http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
-<graph id="G" edgedefault="undirected">
+<key id="d3" for="node" attr.name="NodeLabels" y:attr.uri="http://www.yworks.com/xml/yfiles-common/2.0/NodeLabels"/><graph id="G" edgedefault="undirected">
 <node id="2">
-<data key="label">2</data>
+<data key="d3"><y:Label><y:Label.Text>2</y:Label.Text></y:Label></data>
 </node>
 <node id="4">
-<data key="label">4</data>
+<data key="d3"><y:Label><y:Label.Text>4</y:Label.Text></y:Label></data>
 </node>
 <node id="3">
-<data key="label">3</data>
+<data key="d3"><y:Label><y:Label.Text>3</y:Label.Text></y:Label></data>
 </node>
 <node id="j1">
-<data key="label">j1</data>
+<data key="d3"><y:Label><y:Label.Text>j1</y:Label.Text></y:Label></data>
 </node>
 <node id="1">
-<data key="label">1</data>
+<data key="d3"><y:Label><y:Label.Text>1</y:Label.Text></y:Label></data>
 </node>
 <node id="0">
-<data key="label">0</data>
+<data key="d3"><y:Label><y:Label.Text>0</y:Label.Text></y:Label></data>
 </node>
 </graph>
 </graphml>

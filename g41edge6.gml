@@ -4,6 +4,12 @@ node
 [
  id 2
 label "bag 2"
+graphics
+[
+x 0
+y 0
+type "ellipse"
+]
 LabelGraphics
 [ text "bag 2 "]
 ]
@@ -11,7 +17,12 @@ node
 [
  id 1000001
 label "bag 2"
-graphics[type "star8"]
+graphics
+[
+x 0
+y 0
+type "star8"
+]
 LabelGraphics
 [ text "bag 2 "]
 LabelGraphics
@@ -35,6 +46,12 @@ node
 [
  id 4
 label "bag 4"
+graphics
+[
+x 0
+y 0
+type "ellipse"
+]
 LabelGraphics
 [ text "bag 4 "]
 ]
@@ -42,7 +59,12 @@ node
 [
  id 1000002
 label "bag 4"
-graphics[type "star8"]
+graphics
+[
+x 0
+y 0
+type "star8"
+]
 LabelGraphics
 [ text "bag 4 "]
 LabelGraphics
@@ -66,6 +88,12 @@ node
 [
  id 3
 label "bag 3"
+graphics
+[
+x 0
+y 0
+type "ellipse"
+]
 LabelGraphics
 [ text "bag 3 "]
 ]
@@ -73,7 +101,12 @@ node
 [
  id 1000003
 label "bag 3"
-graphics[type "star8"]
+graphics
+[
+x 0
+y 0
+type "star8"
+]
 LabelGraphics
 [ text "bag 3 "]
 LabelGraphics
@@ -97,7 +130,12 @@ node
 [
  id 4000001
 label "Join 0"
-graphics[type "star8"]
+graphics
+[
+x 0
+y 0
+type "star8"
+]
 LabelGraphics
 [ text "Join 0 "]
 LabelGraphics
@@ -130,6 +168,12 @@ node
 [
  id 1
 label "bag 1"
+graphics
+[
+x 0
+y 0
+type "ellipse"
+]
 LabelGraphics
 [ text "bag 1 "]
 ]
@@ -137,7 +181,12 @@ node
 [
  id 1000004
 label "bag 1"
-graphics[type "star8"]
+graphics
+[
+x 0
+y 0
+type "star8"
+]
 LabelGraphics
 [ text "bag 1 "]
 LabelGraphics
@@ -161,6 +210,12 @@ node
 [
  id 0
 label "bag 0"
+graphics
+[
+x 0
+y 0
+type "ellipse"
+]
 LabelGraphics
 [ text "bag 0 "]
 ]
@@ -168,7 +223,12 @@ node
 [
  id 1000005
 label "bag 0"
-graphics[type "star8"]
+graphics
+[
+x 0
+y 0
+type "star8"
+]
 LabelGraphics
 [ text "bag 0 "]
 LabelGraphics

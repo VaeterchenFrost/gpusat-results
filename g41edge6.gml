@@ -21,8 +21,10 @@ id: 0 # 0
 id: 1 # 1
 id: 2 # 1
 id: 3 # 2
-"model "sandwich"
-anchor "s"]
+"
+model "sandwich"
+anchor "s"
+]
 ]
 edge
 [
@@ -50,8 +52,10 @@ id: 0 # 1
 id: 1 # 2
 id: 2 # 1
 id: 3 # 1
-"model "sandwich"
-anchor "s"]
+"
+model "sandwich"
+anchor "s"
+]
 ]
 edge
 [
@@ -79,8 +83,10 @@ id: 0 # 1
 id: 1 # 2
 id: 2 # 2
 id: 3 # 3
-"model "sandwich"
-anchor "s"]
+"
+model "sandwich"
+anchor "s"
+]
 ]
 edge
 [
@@ -105,8 +111,10 @@ id: 4 # 0
 id: 5 # 2
 id: 6 # 3
 id: 7 # 6
-"model "sandwich"
-anchor "s"]
+"
+model "sandwich"
+anchor "s"
+]
 ]
 edge
 [
@@ -139,8 +147,10 @@ id: 0 # 2
 id: 1 # 9
 id: 2 # 3
 id: 3 # 6
-"model "sandwich"
-anchor "s"]
+"
+model "sandwich"
+anchor "s"
+]
 ]
 edge
 [
@@ -172,8 +182,10 @@ id: 4 # 2
 id: 5 # 9
 id: 6 # 3
 id: 7 # 6
-"model "sandwich"
-anchor "s"]
+"
+model "sandwich"
+anchor "s"
+]
 ]
 edge
 [

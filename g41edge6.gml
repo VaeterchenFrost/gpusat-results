@@ -8,10 +8,14 @@ graphics
 [
 x 0
 y 0
+w 15
+h 15
 type "ellipse"
 ]
 LabelGraphics
-[ text "bag 2 "]
+[ text "bag 2 "
+anchor "w"
+]
 ]
 node
 [
@@ -50,10 +54,14 @@ graphics
 [
 x 0
 y 0
+w 15
+h 15
 type "ellipse"
 ]
 LabelGraphics
-[ text "bag 4 "]
+[ text "bag 4 "
+anchor "w"
+]
 ]
 node
 [
@@ -92,10 +100,14 @@ graphics
 [
 x 0
 y 0
+w 15
+h 15
 type "ellipse"
 ]
 LabelGraphics
-[ text "bag 3 "]
+[ text "bag 3 "
+anchor "w"
+]
 ]
 node
 [
@@ -172,10 +184,14 @@ graphics
 [
 x 0
 y 0
+w 15
+h 15
 type "ellipse"
 ]
 LabelGraphics
-[ text "bag 1 "]
+[ text "bag 1 "
+anchor "w"
+]
 ]
 node
 [
@@ -214,10 +230,14 @@ graphics
 [
 x 0
 y 0
+w 15
+h 15
 type "ellipse"
 ]
 LabelGraphics
-[ text "bag 0 "]
+[ text "bag 0 "
+anchor "w"
+]
 ]
 node
 [

@@ -38,13 +38,8 @@ LabelGraphics
   1|  1  0 ||    1  
   2|  0  1 ||    1  
   3|  1  1 ||    2  
-<<<<<<< HEAD
 ------------------
            sum: 4"
-=======
-----------------
-               4"
->>>>>>> 4f85cfcf995258474c676fc6f4cc89ddac0f10fa
 model "sandwich"
 anchor "s"
 ]
@@ -92,13 +87,8 @@ LabelGraphics
   1|  1  0 ||    2  
   2|  0  1 ||    1  
   3|  1  1 ||    1  
-<<<<<<< HEAD
 ------------------
            sum: 5"
-=======
-----------------
-               5"
->>>>>>> 4f85cfcf995258474c676fc6f4cc89ddac0f10fa
 model "sandwich"
 anchor "s"
 ]
@@ -146,13 +136,8 @@ LabelGraphics
   1|  1  0 ||    2  
   2|  0  1 ||    2  
   3|  1  1 ||    3  
-<<<<<<< HEAD
 ------------------
            sum: 8"
-=======
-----------------
-               8"
->>>>>>> 4f85cfcf995258474c676fc6f4cc89ddac0f10fa
 model "sandwich"
 anchor "s"
 ]
@@ -187,13 +172,8 @@ LabelGraphics
   5|  1  0  1 ||    2  
   6|  0  1  1 ||    3  
   7|  1  1  1 ||    6  
-<<<<<<< HEAD
 ---------------------
               sum: 18"
-=======
--------------------
-                 18"
->>>>>>> 4f85cfcf995258474c676fc6f4cc89ddac0f10fa
 model "sandwich"
 anchor "s"
 ]
@@ -246,13 +226,8 @@ LabelGraphics
   1|  1  0 ||    9  
   2|  0  1 ||    3  
   3|  1  1 ||    6  
-<<<<<<< HEAD
 ------------------
            sum: 20"
-=======
-----------------
-              20"
->>>>>>> 4f85cfcf995258474c676fc6f4cc89ddac0f10fa
 model "sandwich"
 anchor "s"
 ]
@@ -304,13 +279,8 @@ LabelGraphics
   5|  1  0  1 ||    9  
   6|  0  1  1 ||    3  
   7|  1  1  1 ||    6  
-<<<<<<< HEAD
 ---------------------
               sum: 22"
-=======
--------------------
-                 22"
->>>>>>> 4f85cfcf995258474c676fc6f4cc89ddac0f10fa
 model "sandwich"
 anchor "s"
 ]

@@ -291,11 +291,6 @@ target 0
 ]
 edge
 [
-source 0
-target 1
-]
-edge
-[
 source 3
 target 1
 ]

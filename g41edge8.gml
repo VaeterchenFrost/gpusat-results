@@ -32,10 +32,10 @@ LabelGraphics
 LabelGraphics
 [ text "id | v1 v2|| n Sol
 ___________
-   0|  0  0||  0
-   1|  1  0||  1
-   2|  0  1||  1
-   3|  1  1||  2
+  0|  0  0 ||    0  
+  1|  1  0 ||    1  
+  2|  0  1 ||    1  
+  3|  1  1 ||    2  
 "
 model "sandwich"
 anchor "s"
@@ -78,10 +78,10 @@ LabelGraphics
 LabelGraphics
 [ text "id | v2 v8|| n Sol
 ___________
-   0|  0  0||  1
-   1|  1  0||  2
-   2|  0  1||  1
-   3|  1  1||  1
+  0|  0  0 ||    1  
+  1|  1  0 ||    2  
+  2|  0  1 ||    1  
+  3|  1  1 ||    1  
 "
 model "sandwich"
 anchor "s"
@@ -124,10 +124,10 @@ LabelGraphics
 LabelGraphics
 [ text "id | v2 v4|| n Sol
 ___________
-   0|  0  0||  1
-   1|  1  0||  2
-   2|  0  1||  2
-   3|  1  1||  3
+  0|  0  0 ||    1  
+  1|  1  0 ||    2  
+  2|  0  1 ||    2  
+  3|  1  1 ||    3  
 "
 model "sandwich"
 anchor "s"
@@ -153,14 +153,14 @@ LabelGraphics
 LabelGraphics
 [ text "id | v1 v2 v4|| n Sol
 ____________
-   0|  0  0  0||  0
-   1|  1  0  0||  1
-   2|  0  1  0||  2
-   3|  1  1  0||  4
-   4|  0  0  1||  0
-   5|  1  0  1||  2
-   6|  0  1  1||  3
-   7|  1  1  1||  6
+  0|  0  0  0 ||    0  
+  1|  1  0  0 ||    1  
+  2|  0  1  0 ||    2  
+  3|  1  1  0 ||    4  
+  4|  0  0  1 ||    0  
+  5|  1  0  1 ||    2  
+  6|  0  1  1 ||    3  
+  7|  1  1  1 ||    6  
 "
 model "sandwich"
 anchor "s"
@@ -208,10 +208,10 @@ LabelGraphics
 LabelGraphics
 [ text "id | v1 v4|| n Sol
 ___________
-   0|  0  0||  2
-   1|  1  0||  9
-   2|  0  1||  3
-   3|  1  1||  6
+  0|  0  0 ||    2  
+  1|  1  0 ||    9  
+  2|  0  1 ||    3  
+  3|  1  1 ||    6  
 "
 model "sandwich"
 anchor "s"
@@ -254,14 +254,14 @@ LabelGraphics
 LabelGraphics
 [ text "id | v1 v4 v7|| n Sol
 ____________
-   0|  0  0  0||  2
-   1|  1  0  0||  0
-   2|  0  1  0||  0
-   3|  1  1  0||  0
-   4|  0  0  1||  2
-   5|  1  0  1||  9
-   6|  0  1  1||  3
-   7|  1  1  1||  6
+  0|  0  0  0 ||    2  
+  1|  1  0  0 ||    0  
+  2|  0  1  0 ||    0  
+  3|  1  1  0 ||    0  
+  4|  0  0  1 ||    2  
+  5|  1  0  1 ||    9  
+  6|  0  1  1 ||    3  
+  7|  1  1  1 ||    6  
 "
 model "sandwich"
 anchor "s"

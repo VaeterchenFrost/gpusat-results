@@ -28,8 +28,11 @@ y 0
 type "star8"
 ]
 LabelGraphics
-[ text "ID| v1 v2|| n Sol
-___________0| 0 0||  0
+[ text "bag 2"]
+LabelGraphics
+[ text "id | v1 v2|| n Sol
+___________
+0| 0 0||  0
 1| 1 0||  1
 2| 0 1||  1
 3| 1 1||  2
@@ -71,8 +74,11 @@ y 0
 type "star8"
 ]
 LabelGraphics
-[ text "ID| v2 v8|| n Sol
-___________0| 0 0||  1
+[ text "bag 4"]
+LabelGraphics
+[ text "id | v2 v8|| n Sol
+___________
+0| 0 0||  1
 1| 1 0||  2
 2| 0 1||  1
 3| 1 1||  1
@@ -114,8 +120,11 @@ y 0
 type "star8"
 ]
 LabelGraphics
-[ text "ID| v2 v4|| n Sol
-___________0| 0 0||  1
+[ text "bag 3"]
+LabelGraphics
+[ text "id | v2 v4|| n Sol
+___________
+0| 0 0||  1
 1| 1 0||  2
 2| 0 1||  2
 3| 1 1||  3
@@ -140,8 +149,11 @@ y 0
 type "star8"
 ]
 LabelGraphics
-[ text "ID| v1 v2 v4|| n Sol
-____________0| 0 0 0||  0
+[ text "Join 0"]
+LabelGraphics
+[ text "id | v1 v2 v4|| n Sol
+____________
+0| 0 0 0||  0
 1| 1 0 0||  1
 2| 0 1 0||  2
 3| 1 1 0||  4
@@ -192,8 +204,11 @@ y 0
 type "star8"
 ]
 LabelGraphics
-[ text "ID| v1 v4|| n Sol
-___________0| 0 0||  2
+[ text "bag 1"]
+LabelGraphics
+[ text "id | v1 v4|| n Sol
+___________
+0| 0 0||  2
 1| 1 0||  9
 2| 0 1||  3
 3| 1 1||  6
@@ -235,8 +250,11 @@ y 0
 type "star8"
 ]
 LabelGraphics
-[ text "ID| v1 v4 v7|| n Sol
-____________0| 0 0 0||  2
+[ text "bag 0"]
+LabelGraphics
+[ text "id | v1 v4 v7|| n Sol
+____________
+0| 0 0 0||  2
 1| 1 0 0||  0
 2| 0 1 0||  0
 3| 1 1 0||  0

@@ -17,7 +17,7 @@ LabelGraphics
 anchor "w"
 ]
 LabelGraphics
-[ text "[ v1 v2 v5 ]"
+[ text "[ 1 2 5 ]"
 anchor "e"
 ]
 ]
@@ -70,7 +70,7 @@ LabelGraphics
 anchor "w"
 ]
 LabelGraphics
-[ text "[ v2 v3 v8 ]"
+[ text "[ 2 3 8 ]"
 anchor "e"
 ]
 ]
@@ -123,7 +123,7 @@ LabelGraphics
 anchor "w"
 ]
 LabelGraphics
-[ text "[ v2 v4 v8 ]"
+[ text "[ 2 4 8 ]"
 anchor "e"
 ]
 ]
@@ -217,7 +217,7 @@ LabelGraphics
 anchor "w"
 ]
 LabelGraphics
-[ text "[ v1 v2 v4 v6 ]"
+[ text "[ 1 2 4 6 ]"
 anchor "e"
 ]
 ]
@@ -270,7 +270,7 @@ LabelGraphics
 anchor "w"
 ]
 LabelGraphics
-[ text "[ v1 v4 v7 ]"
+[ text "[ 1 4 7 ]"
 anchor "e"
 ]
 ]

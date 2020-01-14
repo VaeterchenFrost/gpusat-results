@@ -82,7 +82,7 @@ CREATE
 ,(c79:Clause {id:79,content:"[-13 -41 43 ]"}),(c79)-[:CONTAINS]->(v13),(c79)-[:CONTAINS]->(v41),(c79)-[:CONTAINS]->(v43);
 
 // ====== DUAL GRAPH QUERY ===========
-MATCH (cl1:Clause)-[]-(:Variable)-[]-(cl2:Clause) MERGE (cl1)-[:SHAREVAR]-(cl2);
+MATCH (cl1:Clause)-[]-(:Variable)-[]-(cl2:Clause)  WHERE cl1.id<>cl2.id MERGE (cl1)-[:SHAREVAR]-(cl2);
 
 // ====== PRIMAL GRAPH QUERY =========
-MATCH (va1:Variable)<-[]-(:Clause)-[]->(va2:Variable) MERGE (va1)-[:SHARECLAUSE]-(va2);
+MATCH (va1:Variable)<-[]-(:Clause)-[]->(va2:Variable) WHERE va1.id<>va2.id MERGE (va1)-[:SHARECLAUSE]-(va2);
